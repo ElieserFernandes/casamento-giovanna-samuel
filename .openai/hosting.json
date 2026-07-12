@@ -1,0 +1,16 @@
+{
+  "bindings": {
+    "d1": [
+      {
+        "binding": "DB",
+        "database_name": "casamento_giovanna_samuel"
+      }
+    ],
+    "r2": [
+      {
+        "binding": "ALBUM_PHOTOS",
+        "bucket_name": "casamento-giovanna-samuel-fotos"
+      }
+    ]
+  }
+}
