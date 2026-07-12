@@ -1,0 +1,12 @@
+name = "casamento-giovanna-samuel"
+compatibility_date = "2026-07-12"
+pages_build_output_dir = ".next"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "casamento_giovanna_samuel"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+[[r2_buckets]]
+binding = "ALBUM_PHOTOS"
+bucket_name = "casamento-giovanna-samuel-fotos"

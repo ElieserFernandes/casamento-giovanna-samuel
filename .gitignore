@@ -1,0 +1,5 @@
+
+# build artifacts
+.next
+tsconfig.tsbuildinfo
+node_modules
